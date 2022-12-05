@@ -1,0 +1,3 @@
+## Exercises for node.js
+
+The main exercise which is exercise 3 is at index.js in the src folder but i also included other exercises at the same git document so i can have some references about node.js in the future since it is the new feature for me i want to keep as much notes about it as possible also i tried to do a lot of practise with it to improve my back-end skills and also to create some muscul memories.
